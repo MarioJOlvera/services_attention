@@ -1,0 +1,7 @@
+from PIL import Image
+whit Image.open('hopper.ppm') as im:
+	
+	num_empleado = int(input('Por favor ...')
+	print('Bienvenido al Sit...')
+
+generar conteo de ticket para ST, RT y DT. Creando un diccionario para cada uno
